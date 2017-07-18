@@ -1,1 +1,1 @@
-# swatelet.github.io
+This is the personal page of Sylvain Watelet.
