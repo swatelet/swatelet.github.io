@@ -1,4 +1,6 @@
-# This is the personal page of Sylvain Watelet. 
+# This is the personal page of Sylvain Watelet (work in progress)
+
+Old personal page [here](http://modb.oce.ulg.ac.be/mediawiki/index.php/User:Swat).
 
 ## GS indexes
 
