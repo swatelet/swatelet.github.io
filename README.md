@@ -9,3 +9,13 @@ List of publications on <a href="http://orbi.ulg.ac.be/simple-search?query=%28%2
 ## GS indexes
 
 GSNW, GSD and GST indexes can be downloaded [here](https://raw.githubusercontent.com/swatelet/swatelet.github.io/master/GSindexes_1940_2014_release20170717.txt) (work in progress).
+
+### Correlations
+
+Over 1940-2014:
+
+|Indexes|no lag|lag=1 year|lag=2 years|
+|---|-------:|-------:|---:|
+|NAO-GSNW|0.1812|0.3692|-0.02329|
+|NAO-GSD|0.2077|0.1677|0.2069|
+|NAO-GST|0.3476|0.1620|0.2202|
