@@ -15,7 +15,7 @@ GSNW, GSD and GST indexes can be downloaded [here](https://raw.githubusercontent
 Over 1940-2014:
 
 |Indexes|no lag|lag=1 year|lag=2 years|
-|---|-------:|-------:|---:|
+|---|:-------:|:-------:|:---:|
 |NAO-GSNW|0.1812|0.3692|-0.02329|
 |NAO-GSD|0.2077|0.1677|0.2069|
 |NAO-GST|0.3476|0.1620|0.2202|
