@@ -20,6 +20,7 @@ Over 1940-2014:
 |NAO-GSD|0.2077|0.1677|0.2069|
 |NAO-GST|0.3476|0.1620|0.2202|
 
+
 Over 1960-2014:
 
 |Indexes|no lag|lag=1 year|lag=2 years|
