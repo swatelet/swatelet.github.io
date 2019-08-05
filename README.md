@@ -8,7 +8,7 @@ List of publications on <a href="http://orbi.ulg.ac.be/simple-search?query=%28%2
 
 ## GS indexes
 
-GSNW, GSD and GST indices can be downloaded [here](https://raw.githubusercontent.com/swatelet/swatelet.github.io/master/GSindexes_1940_2014_release20170717.txt).
+GSNW, GSD and GST indices can be downloaded [here](https://raw.githubusercontent.com/swatelet/swatelet.github.io/master/GSindexes_1940_2014_release20170717.txt). Update 05/08/2019: GSNW indices corresponding to 4 sensitivity tests [here] (https://raw.githubusercontent.com/swatelet/swatelet.github.io/master/GSNW_S1_S2_S3_S4_19402014_release20190508.txt).
 
 ### Correlations
 
